@@ -234,4 +234,54 @@ export const jobs: Job[] = [
       },
     ],
   },
+  {
+    slug: "nokia-associate-engineer-optical",
+    company: "Nokia",
+    title: "Associate Engineer, Optical Networking",
+    summary:
+      "Optical networking software, hardware and FPGA work for next-gen optical products, using modern AI tools and agile methods.",
+    facts: [
+      { label: "Team", value: "Optical Networking" },
+      { label: "Level", value: "Associate Engineer" },
+      {
+        label: "Degrees",
+        value: "Bachelor's or Master's in Electronics & Communication Engineering, Computer Science or a related technical field",
+      },
+      { label: "Work model", value: "Flexible and hybrid" },
+    ],
+    domains: ["power-photonics", "embedded", "communications"],
+    sections: [
+      {
+        heading: "The team",
+        text: "Design and develop optical solutions within Nokia's Optical Networking team, collaborating with expert architects and engineers globally. The team addresses the exponential demand for optical infrastructure and computing power driven by the AI super cycle, using the latest AI development tools and agile methodologies, with a focus on continuous learning and self-improvement.",
+      },
+      {
+        heading: "What you will learn and contribute to",
+        items: [
+          "Break down requirements to formulate and understand overall systems, using modern AI tools",
+          "Collaborate with design and architects to develop and integrate software, hardware and FPGA solutions for next-gen optical products, including third-party integration",
+          "Take part in system design and test reviews, high-level software module design and critical code reviews",
+          "Develop high-quality code in C++ / Python and design and implement PoCs for new software frameworks using modern AI technologies",
+          "Use state-of-the-art AI tools for continuous integration pipelines and automation",
+          "Work with hardware and software engineers to test, validate and debug products for customer delivery",
+        ],
+      },
+      {
+        heading: "You have",
+        items: [
+          "Bachelor's or Master's degree in Electronics & Communication Engineering, Computer Science or a related technical field",
+          "A good understanding of object-oriented concepts",
+          "Very strong C/C++ and Python programming skills",
+          "Strong operating systems and multi-threading concepts",
+          "Understanding or hands-on practice with Agile and AI tools / technologies",
+        ],
+      },
+      {
+        heading: "It would be nice if you had",
+        items: [
+          "Project experience or academic specialisation / electives in optical or photonics",
+        ],
+      },
+    ],
+  },
 ];
